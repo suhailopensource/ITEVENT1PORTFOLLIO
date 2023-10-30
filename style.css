@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+@media (max-width: 920px) {
+    .responsive_about{
+        flex-direction: column  !important;
+        margin-top: 40px;
+    }
+
+    .responsive_text{
+        text-align: center;
+    }
+    .lol_me{
+        flex-direction: column !important;
+    }
+
+    .about_me{
+        padding: 10px !important;
+    }
+  }
+
+
+  .purpliee{
+    background: rgb(47, 0, 47);
+  }
+
+
